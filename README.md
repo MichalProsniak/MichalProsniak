@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalProsniak&show_icons=true&theme=great-gatsby)](https://github.com/MichalProsniak?tab=repositories)
 
 <!--
 **MichalProsniak/MichalProsniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
