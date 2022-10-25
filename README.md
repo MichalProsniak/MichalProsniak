@@ -10,6 +10,4 @@ I enjoy getting to know new technologies and people.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalProsniak&show_icons=true&theme=great-gatsby)](https://github.com/MichalProsniak?tab=repositories)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalProsniak&show_icons=true&theme=great-gatsby)]
-
 - 🌱 I’m currently learning React and Typescript
